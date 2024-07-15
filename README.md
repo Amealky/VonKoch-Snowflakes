@@ -1,4 +1,4 @@
-``Reupload project from 2017 : This project was recovered so don't take commits into accounts``
+``Reupload project from 2014 : This project was recovered so don't take commits into accounts``
 
 <h1 align="center">❄️ VonKoch SnowFlakes ❄️</h1>
 <p align="center">
